@@ -1,0 +1,9 @@
+name: Coins
+author: Extends
+version: 1.0.0
+main: org.coins.Coins
+commands:
+   aepiccoins:
+   alabcoins:
+   repiccoins:
+   rlabcoins:
